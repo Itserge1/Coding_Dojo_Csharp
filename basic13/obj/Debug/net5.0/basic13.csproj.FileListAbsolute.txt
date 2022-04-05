@@ -1,0 +1,15 @@
+/Users/sergehountondji/Downloads/Work/Coding_Dojo_Csharp/basic13/obj/Debug/net5.0/basic13.csprojAssemblyReference.cache
+/Users/sergehountondji/Downloads/Work/Coding_Dojo_Csharp/basic13/obj/Debug/net5.0/basic13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergehountondji/Downloads/Work/Coding_Dojo_Csharp/basic13/obj/Debug/net5.0/basic13.AssemblyInfoInputs.cache
+/Users/sergehountondji/Downloads/Work/Coding_Dojo_Csharp/basic13/obj/Debug/net5.0/basic13.AssemblyInfo.cs
+/Users/sergehountondji/Downloads/Work/Coding_Dojo_Csharp/basic13/obj/Debug/net5.0/basic13.csproj.CoreCompileInputs.cache
+/Users/sergehountondji/Downloads/Work/Coding_Dojo_Csharp/basic13/bin/Debug/net5.0/basic13.deps.json
+/Users/sergehountondji/Downloads/Work/Coding_Dojo_Csharp/basic13/bin/Debug/net5.0/basic13.runtimeconfig.json
+/Users/sergehountondji/Downloads/Work/Coding_Dojo_Csharp/basic13/bin/Debug/net5.0/basic13.runtimeconfig.dev.json
+/Users/sergehountondji/Downloads/Work/Coding_Dojo_Csharp/basic13/bin/Debug/net5.0/basic13.dll
+/Users/sergehountondji/Downloads/Work/Coding_Dojo_Csharp/basic13/bin/Debug/net5.0/ref/basic13.dll
+/Users/sergehountondji/Downloads/Work/Coding_Dojo_Csharp/basic13/bin/Debug/net5.0/basic13.pdb
+/Users/sergehountondji/Downloads/Work/Coding_Dojo_Csharp/basic13/obj/Debug/net5.0/basic13.dll
+/Users/sergehountondji/Downloads/Work/Coding_Dojo_Csharp/basic13/obj/Debug/net5.0/ref/basic13.dll
+/Users/sergehountondji/Downloads/Work/Coding_Dojo_Csharp/basic13/obj/Debug/net5.0/basic13.pdb
+/Users/sergehountondji/Downloads/Work/Coding_Dojo_Csharp/basic13/obj/Debug/net5.0/basic13.genruntimeconfig.cache

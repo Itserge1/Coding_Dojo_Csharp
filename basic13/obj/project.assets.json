@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sergehountondji/Downloads/Work/Coding_Dojo_Csharp/puzzles/puzzles.csproj",
-      "projectName": "puzzles",
-      "projectPath": "/Users/sergehountondji/Downloads/Work/Coding_Dojo_Csharp/puzzles/puzzles.csproj",
+      "projectUniqueName": "/Users/sergehountondji/Downloads/Work/Coding_Dojo_Csharp/basic13/basic13.csproj",
+      "projectName": "basic13",
+      "projectPath": "/Users/sergehountondji/Downloads/Work/Coding_Dojo_Csharp/basic13/basic13.csproj",
       "packagesPath": "/Users/sergehountondji/.nuget/packages/",
-      "outputPath": "/Users/sergehountondji/Downloads/Work/Coding_Dojo_Csharp/puzzles/obj/",
+      "outputPath": "/Users/sergehountondji/Downloads/Work/Coding_Dojo_Csharp/basic13/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sergehountondji/.nuget/NuGet/NuGet.Config"

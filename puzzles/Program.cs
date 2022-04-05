@@ -1,5 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿// Inport 
+using System; // important for console.writeline to work
+using System.Collections.Generic; // important for list to work
 
 namespace puzzles
 {
