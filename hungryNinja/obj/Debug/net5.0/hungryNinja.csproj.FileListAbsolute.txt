@@ -1,0 +1,15 @@
+/Users/sergehountondji/Downloads/Work/Coding_Dojo_Csharp/hungryNinja/bin/Debug/net5.0/hungryNinja.deps.json
+/Users/sergehountondji/Downloads/Work/Coding_Dojo_Csharp/hungryNinja/bin/Debug/net5.0/hungryNinja.runtimeconfig.json
+/Users/sergehountondji/Downloads/Work/Coding_Dojo_Csharp/hungryNinja/bin/Debug/net5.0/hungryNinja.runtimeconfig.dev.json
+/Users/sergehountondji/Downloads/Work/Coding_Dojo_Csharp/hungryNinja/bin/Debug/net5.0/hungryNinja.dll
+/Users/sergehountondji/Downloads/Work/Coding_Dojo_Csharp/hungryNinja/bin/Debug/net5.0/ref/hungryNinja.dll
+/Users/sergehountondji/Downloads/Work/Coding_Dojo_Csharp/hungryNinja/bin/Debug/net5.0/hungryNinja.pdb
+/Users/sergehountondji/Downloads/Work/Coding_Dojo_Csharp/hungryNinja/obj/Debug/net5.0/hungryNinja.csprojAssemblyReference.cache
+/Users/sergehountondji/Downloads/Work/Coding_Dojo_Csharp/hungryNinja/obj/Debug/net5.0/hungryNinja.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergehountondji/Downloads/Work/Coding_Dojo_Csharp/hungryNinja/obj/Debug/net5.0/hungryNinja.AssemblyInfoInputs.cache
+/Users/sergehountondji/Downloads/Work/Coding_Dojo_Csharp/hungryNinja/obj/Debug/net5.0/hungryNinja.AssemblyInfo.cs
+/Users/sergehountondji/Downloads/Work/Coding_Dojo_Csharp/hungryNinja/obj/Debug/net5.0/hungryNinja.csproj.CoreCompileInputs.cache
+/Users/sergehountondji/Downloads/Work/Coding_Dojo_Csharp/hungryNinja/obj/Debug/net5.0/hungryNinja.dll
+/Users/sergehountondji/Downloads/Work/Coding_Dojo_Csharp/hungryNinja/obj/Debug/net5.0/ref/hungryNinja.dll
+/Users/sergehountondji/Downloads/Work/Coding_Dojo_Csharp/hungryNinja/obj/Debug/net5.0/hungryNinja.pdb
+/Users/sergehountondji/Downloads/Work/Coding_Dojo_Csharp/hungryNinja/obj/Debug/net5.0/hungryNinja.genruntimeconfig.cache
